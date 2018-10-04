@@ -28,3 +28,6 @@ hs_err_pid*
 /CropImage/dist/
 /Auto-Crop-Image/dist/
 /ProcessCropImage/nbproject/private/
+/ProcessCropImage/build/
+/ProcessCropImage/dist/
+/AutoCropImage/dist/
